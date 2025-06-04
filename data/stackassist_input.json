@@ -1,0 +1,20 @@
+[
+    {
+        "product_id": "Kubus_Paars",
+        "length_mm": 36.0,
+        "width_mm": 34.0,
+        "height_mm": 34.0
+    },
+    {
+        "product_id": "Kubus_Geel",
+        "length_mm": 25.0,
+        "width_mm": 24.5,
+        "height_mm": 24.8
+    },
+    {
+        "product_id": "Rechthoek_Groen",
+        "length_mm": 36.5,
+        "width_mm": 34.0,
+        "height_mm": 68.8
+    }
+]

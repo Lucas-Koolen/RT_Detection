@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶️ Run main.py als module",
+      "type": "python",
+      "request": "launch",
+      "module": "main.main",
+      "justMyCode": true
+    }
+  ]
+}
